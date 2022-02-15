@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "freekassa"
-version = "0.1.0"
+version = "0.1.4"
 description = "FreeKassa Api"
 authors = ["odi1n"]
 repository = 'https://github.com/odi1n/freekassa_api'
