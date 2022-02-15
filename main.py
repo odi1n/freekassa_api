@@ -1,4 +1,4 @@
-from freekassa_api import Merchant
+from freekassa import Merchant
 
 
 def test():
