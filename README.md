@@ -2,7 +2,7 @@
 
 ## Intallation
 
-```json
+```sh
 pip install freekassa
 ```
 
